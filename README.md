@@ -1,4 +1,5 @@
 # lstm-attention-weather-prediction
+Weather prediction using LSTM and Attention. 
 
 ## Dataset
 Steps to use the dataset.
