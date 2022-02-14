@@ -7,7 +7,10 @@ Steps to use the dataset.
 - Place the contents inside the extracted folder into the main repository. 
 
 ## Instructions
-Train the neural network:
+After preparing the dataset, train the neural network:
 ```
 python main.py
 ```
+
+## Results
+Place the graphs here. 
