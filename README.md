@@ -14,4 +14,6 @@ python main.py
 ```
 
 ## Results
+![1](https://user-images.githubusercontent.com/51147727/153980516-a7aea390-c53a-42f2-a1f0-bea5281cfeaa.png)
+
 Place the graphs here. 
