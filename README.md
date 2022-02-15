@@ -1,5 +1,5 @@
 # lstm-attention-weather-prediction
-Here, we do Weather prediction using LSTM and Attention. The dataset contains 14 different features such as atmospheric pressure, humidity, temperature, etc. Our goal is to predict the future temperature using all these 14 features. 
+Here, we do weather prediction using LSTM and Attention. The dataset contains 14 different features such as atmospheric pressure, humidity, temperature, etc. Our goal is to predict the future temperature using all these 14 features. 
 
 ## Dataset
 Steps to use the dataset.
