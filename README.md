@@ -17,8 +17,8 @@ python main.py
 <!--- Explain a little bit about the graphs here. -->
 
 <p align="center">   
-  ![img1](https://user-images.githubusercontent.com/51147727/155929409-14029e53-8d8c-4090-808b-01c3f310e3b0.png)
-  ![img2](https://user-images.githubusercontent.com/51147727/155929420-681c9c83-af29-41a5-8e6c-f4b294872b34.png)
+  ![img1](https://user-images.githubusercontent.com/51147727/155930935-be65f7ab-20a7-4caa-92b6-518e8a0df5c9.png)
+  ![img2](https://user-images.githubusercontent.com/51147727/155930943-23e7638f-b550-423e-887c-9cf7b09fa62d.png)
 </p>
 
 <!--- Explain a little bit about the graphs here. -->
