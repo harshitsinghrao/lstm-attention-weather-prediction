@@ -15,7 +15,7 @@ python main.py
 
 ## Results
 <!--- Explain a little bit about the graphs here. -->
-Some sampled predictions from the test set after the model is fully trained. Here, the x-axis denotes the time in days, and the y-axis is the temperature in degC.  
+Some sampled predictions from the test set after the model is fully trained. Here, the x-axis is the time in days, and the y-axis denotes the temperature in degC.  
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51147727/155930935-be65f7ab-20a7-4caa-92b6-518e8a0df5c9.png"/>
