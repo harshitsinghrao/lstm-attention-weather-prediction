@@ -15,3 +15,5 @@ python main.py
 
 ## Results
 Place the graphs here. 
+![img1](https://user-images.githubusercontent.com/51147727/155929409-14029e53-8d8c-4090-808b-01c3f310e3b0.png)
+![img2](https://user-images.githubusercontent.com/51147727/155929420-681c9c83-af29-41a5-8e6c-f4b294872b34.png)
