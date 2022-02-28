@@ -14,7 +14,7 @@ python main.py
 ```
 
 ## Results
-dsgihsojglk
+<!--- Explain a little bit about the graphs here. -->
 
 <p align="center"> 
   <!--- <img width="100%" src="https://imgur.com/mrS4fFA.png"> --> 
@@ -25,4 +25,4 @@ dsgihsojglk
   ![img2](https://user-images.githubusercontent.com/51147727/155929420-681c9c83-af29-41a5-8e6c-f4b294872b34.png)
 </p>
 
-skfjlsjgljsd
+<!--- Explain a little bit about the graphs here. -->
