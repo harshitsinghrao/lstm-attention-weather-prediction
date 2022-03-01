@@ -1,6 +1,6 @@
 # lstm-attention-weather-prediction
 - Weather prediction using LSTM and Global Attention. 
-- Multivariate time series analysis; the dataset contains 14 different features such as atmospheric pressure, humidity, temperature, etc. Our goal is to predict the future temperature using all these 14 features. 
+- Multivariate time series analysis; the dataset contains 14 different features such as atmospheric pressure, humidity, temperature, etc. The goal is to predict the future temperature using all these 14 features. 
 
 ## Dataset
 Steps to use the dataset.
